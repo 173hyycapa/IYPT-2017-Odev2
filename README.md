@@ -17,7 +17,7 @@ Bunun için önceden yapılmış deneylerden de faydalandık.
 Öncelikle şişenin üçte birini doldurduk ve atışlar çok iyi sonuç verdi. Şişedeki su miktarını arttırınca isabet azaldı.
 
 
-
+http://www.teknofomo.com/index.php/2016/12/29/water-bottle-flip-challenge-2016-ya-damgasini-vurdu/
 
 
 
