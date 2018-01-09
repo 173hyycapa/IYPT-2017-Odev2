@@ -14,6 +14,7 @@ Bottle flip günümüzde çocuğundan gencine tüm dünyada yaygınlaşan yeni b
 # Giriş (Introduction)
 Deneyimizin amacı bottle flip atışlarını en iyi şekle getirmek.
 Bunun için önceden yapılmış deneylerden de faydalandık.
+Öncelikle şişenin üçte birini doldurduk ve atışlar çok iyi sonuç verdi. Şişedeki su miktarını arttırınca isabet azaldı.
 
 
 
