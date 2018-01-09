@@ -30,8 +30,8 @@ Su şişesini farklı miktarlarda doldurarak  bottle flip atışları yaptık ve
 Sonuç önceden tahmin ettiğimiz gibi oldu. Şişenin üçte birini doldurmak en iyi sonucu verdi.
 
 Deneyle ilgili görsellere burdan ulaşabilirsiniz 
+https://i.hizliresim.com/A1ZJ80.jpg
 
+https://i.hizliresim.com/dO4bl4.jpg
 
-
-
-
+https://i.hizliresim.com/5DpVER.jpg
